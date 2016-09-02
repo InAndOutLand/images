@@ -624,7 +624,7 @@ https://web.archive.org/web/20140427070808/http://muleradio.net/thetalkshow/1/</
       <itunes:summary>Enhanced AAC Chapters Test</itunes:summary>
       <itunes:keywords></itunes:keywords>
       <itunes:duration>00:01:19</itunes:duration>
-      <enclosure url="https://auphonic.com/media/blog/auphonic_chapters_demo.m4a" length="2202010" type="video/mpeg" />
+      <enclosure url="https://auphonic.com/media/blog/auphonic_chapters_demo.m4a" length="2202010" type="audio/mpeg" />
       <guid>https://auphonic.com/media/blog/auphonic_chapters_demo.m4a</guid>
       <itunes:explicit>no</itunes:explicit>
     </item>
