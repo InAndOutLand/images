@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>Test Feed</title>
+    <link>https://inandoutland.tumblr.com</link>
+    <description>Feed for podcast tests. </description>
+	 <itunes:summary>Feed for podcast tests. </itunes:summary>
+	 <itunes:subtitle>Feed for podcast tests. </itunes:subtitle>
+    <itunes:category text="Society &amp; Culture"></itunes:category>
+	<language>en-us</language>
+    <copyright>2006. All rights reserved.</copyright>
+    <pubDate>Mon, 13 Jun 2016 06:47:00 GMT</pubDate>
+    <lastBuildDate>Mon, 13 Jun 2016 06:47:00 GMT</lastBuildDate>
+    <generator>Podcastblaster.com</generator>
+    <managingEditor>inandoutland@icloud.com(Blank)</managingEditor>
+    <webMaster>inandoutland@icloud.com</webMaster>
+    <image>
+    <url>http://www.powerpresspodcast.com/wp-content/uploads/2016/02/itunes-podcast-app-logo.png</url>
+    <title>Test Feed</title>
+    <link>https://inandoutland.tumblr.com</link>
+    <width>1024</width>
+    <height>1024</height>
+    </image>
+    <itunes:image href="http://www.powerpresspodcast.com/wp-content/uploads/2016/02/itunes-podcast-app-logo.png" />
+    <itunes:owner>
+      <itunes:name>Blank</itunes:name>
+      <itunes:email>inandoutland@icloud.com</itunes:email>
+    </itunes:owner>
+    
+    <itunes:author>Blank</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <ttl>1</ttl>
+    <item>
+      <title>538: Jun 13 2016</title>
+      <link>http://c.espnradio.com/s:5L8r1/audio/2794752/fivethirtyeightelections_2016-06-13-182752.64k.mp3?ad_params=zones%3DPreroll%2CPreroll2%2CMidroll%2CMidroll2%2CMidroll3%2CMidroll4%2CMidroll5%2CMidroll6%2CPostroll%2CPostroll2%7Cstation_id%3D4278</link>
+      <comments>http://c.espnradio.com/s:5L8r1/audio/2794752/fivethirtyeightelections_2016-06-13-182752.64k.mp3?ad_params=zones%3DPreroll%2CPreroll2%2CMidroll%2CMidroll2%2CMidroll3%2CMidroll4%2CMidroll5%2CMidroll6%2CPostroll%2CPostroll2%7Cstation_id%3D4278</comments>
+      <itunes:author>Blank</itunes:author>
+      <dc:creator>Blank</dc:creator>
+      <description>Sample episode description</description>
+      <pubDate>Mon, 13 Jun 2016 06:47:00 GMT</pubDate>
+      <itunes:image href="https://pbs.twimg.com/media/Cx01bZoWgAA4L6a.jpg:large" />
+      <itunes:subtitle>How We Categorize Tragedies Like Orlando</itunes:subtitle>
+      <itunes:summary>The day after the deadliest mass shooting in U.S. history, the elections podcast takes stock of how politicians are responding and the words members of the media are using. FiveThirtyEight’s lead news writer Carl Bialik talks about how we categorize the</itunes:summary>
+      <itunes:keywords></itunes:keywords>
+      <itunes:duration>01:00:30</itunes:duration>
+      <enclosure url="http://c.espnradio.com/s:5L8r1/audio/2794752/fivethirtyeightelections_2016-06-13-182752.64k.mp3?ad_params=zones%3DPreroll%2CPreroll2%2CMidroll%2CMidroll2%2CMidroll3%2CMidroll4%2CMidroll5%2CMidroll6%2CPostroll%2CPostroll2%7Cstation_id%3D4278" length="30513562" type="audio/mpeg" />
+      <guid>http://c.espnradio.com/s:5L8r1/audio/2794752/fivethirtyeightelections_2016-06-13-182752.64k.mp3?ad_params=zones%3DPreroll%2CPreroll2%2CMidroll%2CMidroll2%2CMidroll3%2CMidroll4%2CMidroll5%2CMidroll6%2CPostroll%2CPostroll2%7Cstation_id%3D4278</guid>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+  </channel>
+</rss>
